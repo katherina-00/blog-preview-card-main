@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/katherina-00/blog-preview-card-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://katherina-00.github.io/blog-preview-card.github.io/)
 
 ## My process
 1 . first i worked with the html code to separate each section of the card to do this i used grid
